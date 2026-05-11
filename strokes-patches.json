@@ -1,6 +1,6 @@
 {
   "_comment": "BopoWrite 筆順資料線上修補。流程文件：docs/stroke_patch_workflow.md",
-  "baseline": 1,
+  "baseline": 3,
   "version": 0,
   "patches": []
 }
